@@ -32,3 +32,5 @@
 /Users/olivier/visual_studio/project_2/project_2/obj/Debug/netcoreapp3.1/project_2.dll
 /Users/olivier/visual_studio/project_2/project_2/obj/Debug/netcoreapp3.1/project_2.pdb
 /Users/olivier/visual_studio/project_2/project_2/obj/Debug/netcoreapp3.1/project_2.csproj.CopyComplete
+/Users/olivier/visual_studio/project_2/project_2/obj/Debug/netcoreapp3.1/project_2.csproj.CoreCompileInputs.cache
+/Users/olivier/visual_studio/project_2/project_2/obj/Debug/netcoreapp3.1/project_2.genruntimeconfig.cache
